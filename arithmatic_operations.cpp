@@ -18,9 +18,9 @@ int main() {
     cout << "Press any letter key to start" <<endl;
     cin >> x;  
 
-    cout << "enter the value of 1st no, i.e. p" <<endl;
+    cout << "enter your 1st number, i.e. p" <<endl;
     cin >> p;
-    cout << "enter the value of 2nd number, i.e. q" <<endl;
+    cout << "enter your 2nd number, i.e. q" <<endl;
     cin >> q;
     
     
