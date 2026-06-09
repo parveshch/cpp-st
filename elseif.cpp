@@ -18,18 +18,17 @@ int main (){
     }
     
     else if (BMI > 29.9 && BMI <=34.9) {
-    cout << "You are obese Class - I, kindly have a diet plan and avoid junk food" <<endl;
+    cout << "You have Class - I Obesity, kindly have a diet plan and avoid junk food" <<endl;
 
     }
     else if (BMI > 34.9 && BMI <=39.9) {
-    cout << "You are obese Class - II, kindly consult a doctor!!!" <<endl;
+    cout << "You have Class - II Obesity, kindly consult a doctor!!!" <<endl;
 
     }
     else if (BMI >= 40) {
-    cout << "You are obese Class - III, kindly consult a doctor!!!" <<endl;
+    cout << "You have Class - III Obesity, kindly consult a doctor!!!" <<endl;
 
     }
-
     
     return 0;
 }
